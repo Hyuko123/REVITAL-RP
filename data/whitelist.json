@@ -1,0 +1,40 @@
+{
+  "1147132524049465344": {
+    "discord_id": "1147132524049465344",
+    "date": "2026-06-18T05:49:49.125231",
+    "moderator": "hyuko_123",
+    "background": "ok",
+    "reglement": "ok",
+    "decision": "accepte"
+  },
+  "1486079217484697741": {
+    "entries": [
+      {
+        "nom_rp": "Michel Parcoeur",
+        "age_rp": "33",
+        "background": "TZEAGZEGZE",
+        "type_wl": "legal",
+        "background_ok": "ok",
+        "reglement_ok": "ok",
+        "decision": "accepte",
+        "notes": "C'est ok",
+        "moderator": "hyuko_123",
+        "moderator_id": 1147132524049465344,
+        "date": "2026-06-18T06:31:21.904894"
+      }
+    ],
+    "current": {
+      "nom_rp": "Michel Parcoeur",
+      "age_rp": "33",
+      "background": "TZEAGZEGZE",
+      "type_wl": "legal",
+      "background_ok": "ok",
+      "reglement_ok": "ok",
+      "decision": "accepte",
+      "notes": "C'est ok",
+      "moderator": "hyuko_123",
+      "moderator_id": 1147132524049465344,
+      "date": "2026-06-18T06:31:21.904894"
+    }
+  }
+}

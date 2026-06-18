@@ -1,0 +1,127 @@
+{
+  "1517010129730666527": {
+    "creator": 1147132524049465344,
+    "created": "2026-06-18T05:36:36.538844",
+    "status": "open"
+  },
+  "1517012981118926858": {
+    "creator": 1147132524049465344,
+    "created": "2026-06-18T05:47:56.433712",
+    "status": "open",
+    "category": "ingame"
+  },
+  "1517013690723860490": {
+    "creator": 1147132524049465344,
+    "created": "2026-06-18T05:50:45.517636",
+    "status": "open",
+    "category": "staff"
+  },
+  "1517013750593360005": {
+    "creator": 1147132524049465344,
+    "created": "2026-06-18T05:50:59.884464",
+    "status": "open",
+    "category": "dev"
+  },
+  "1517022767243984968": {
+    "number": 1,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "boutique",
+    "status": "open",
+    "claimed_by": 1147132524049465344,
+    "created_at": "2026-06-18T06:26:49.749691",
+    "closed_at": null,
+    "messages": [],
+    "claimed_by_name": "hyuko_123"
+  },
+  "1517022788639133716": {
+    "number": 2,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "superviseur",
+    "status": "closed",
+    "claimed_by": 1147132524049465344,
+    "created_at": "2026-06-18T06:26:54.606280",
+    "closed_at": "2026-06-18T06:28:57.095791",
+    "messages": [],
+    "claimed_by_name": "hyuko_123",
+    "closed_by": "hyuko_123"
+  },
+  "1517022794678796379": {
+    "number": 3,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "recrutement",
+    "status": "open",
+    "claimed_by": null,
+    "created_at": "2026-06-18T06:26:56.041373",
+    "closed_at": null,
+    "messages": []
+  },
+  "1517022805206761576": {
+    "number": 4,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "legal",
+    "status": "open",
+    "claimed_by": null,
+    "created_at": "2026-06-18T06:26:58.719790",
+    "closed_at": null,
+    "messages": []
+  },
+  "1517022818611761152": {
+    "number": 5,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "illegal",
+    "status": "open",
+    "claimed_by": null,
+    "created_at": "2026-06-18T06:27:01.908687",
+    "closed_at": null,
+    "messages": []
+  },
+  "1517022831869694134": {
+    "number": 6,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "wiperp",
+    "status": "open",
+    "claimed_by": null,
+    "created_at": "2026-06-18T06:27:04.958935",
+    "closed_at": null,
+    "messages": []
+  },
+  "1517026543371681964": {
+    "number": 7,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "boutique",
+    "status": "open",
+    "claimed_by": null,
+    "created_at": "2026-06-18T06:41:49.780554",
+    "closed_at": null,
+    "messages": []
+  },
+  "1517026575843852358": {
+    "number": 8,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "legal",
+    "status": "open",
+    "claimed_by": null,
+    "created_at": "2026-06-18T06:41:57.620904",
+    "closed_at": null,
+    "messages": []
+  },
+  "1517035864755142747": {
+    "number": 9,
+    "creator_id": 1147132524049465344,
+    "creator_name": "hyuko_123",
+    "category": "boutique",
+    "status": "open",
+    "claimed_by": null,
+    "created_at": "2026-06-18T07:18:52.241297",
+    "closed_at": null,
+    "messages": []
+  }
+}
